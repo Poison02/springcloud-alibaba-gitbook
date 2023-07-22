@@ -29,3 +29,6 @@
   * [5.2 Gateway简介](05gateway-fu-wu-wang-guan/5.2-gateway-jian-jie.md)
   * [5.3 Gateway快速入门](05gateway-fu-wu-wang-guan/5.3-gateway-kuai-su-ru-men.md)
   * [5.4 Gateway核心架构](05gateway-fu-wu-wang-guan/5.4-gateway-he-xin-jia-gou.md)
+  * [5.5 断言](05gateway-fu-wu-wang-guan/5.5-duan-yan.md)
+  * [5.6 过滤器](05gateway-fu-wu-wang-guan/5.6-guo-lv-qi.md)
+  * [5.7 网关限流](05gateway-fu-wu-wang-guan/5.7-wang-guan-xian-liu.md)
