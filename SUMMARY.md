@@ -38,3 +38,8 @@
   * [6.3 micrometer-tracing 入门](06micrometer-tracing-lian-lu-zhui-zong/6.3-micrometertracing-ru-men.md)
   * [6.3 与ZipKin集成](06micrometer-tracing-lian-lu-zhui-zong/6.3-yu-zipkin-ji-cheng.md)
   * [6.4 ZipKin数据持久化](06micrometer-tracing-lian-lu-zhui-zong/6.4-zipkin-shu-ju-chi-jiu-hua.md)
+* [07-Nacos Config--配置中心](07nacos-config-pei-zhi-zhong-xin/README.md)
+  * [7.1服务配置中心介绍](07nacos-config-pei-zhi-zhong-xin/7.1-fu-wu-pei-zhi-zhong-xin-jie-shao.md)
+  * [7.2 NacosConfig入门](07nacos-config-pei-zhi-zhong-xin/7.2-nacosconfig-ru-men.md)
+  * [7.3 Nacos Config深入](07nacos-config-pei-zhi-zhong-xin/7.3-nacos-config-shen-ru.md)
+  * [7.4 nacos的几个概念](07nacos-config-pei-zhi-zhong-xin/7.4-nacos-de-ji-ge-gai-nian.md)
