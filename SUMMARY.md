@@ -43,3 +43,8 @@
   * [7.2 NacosConfig入门](07nacos-config-pei-zhi-zhong-xin/7.2-nacosconfig-ru-men.md)
   * [7.3 Nacos Config深入](07nacos-config-pei-zhi-zhong-xin/7.3-nacos-config-shen-ru.md)
   * [7.4 nacos的几个概念](07nacos-config-pei-zhi-zhong-xin/7.4-nacos-de-ji-ge-gai-nian.md)
+* [08 Seata--分布式事务](08-seata-fen-bu-shi-shi-wu/README.md)
+  * [10.1分布式事务基础](08-seata-fen-bu-shi-shi-wu/10.1-fen-bu-shi-shi-wu-ji-chu.md)
+  * [10.2 分布式事务解决方案](08-seata-fen-bu-shi-shi-wu/10.2-fen-bu-shi-shi-wu-jie-jue-fang-an.md)
+  * [10.3 Seata介绍](08-seata-fen-bu-shi-shi-wu/10.3-seata-jie-shao.md)
+  * [10.4 Seata实现分布式事务控制](08-seata-fen-bu-shi-shi-wu/10.4-seata-shi-xian-fen-bu-shi-shi-wu-kong-zhi.md)
